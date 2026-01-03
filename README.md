@@ -1,8 +1,27 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dairan&count_private=true&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
+# 👋 Dairan
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dairan&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+iOS Developer @ PicPay | Swift Enthusiast | AI-Powered Workflows
 
+![Profile Views](https://komarev.com/ghpvc/?username=dairan&color=blueviolet)
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dairan)](https://github.com/anuraghazra/github-readme-stats) -->
+## 🛠️ Stack
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dairan&repo=dairan.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Mobile:** Swift • UIKit • SwiftUI  
+**Backend:** Python • FastAPI  
+**AI/ML:** Claude • Ollama • RAG Systems  
+**Infra:** Docker • Cloudflare • Render
+
+## 📝 Latest
+
+Check out my technical blog at **[dairan.dev](https://dairan.dev)**
+
+---
+
+*Building human + AI workflows that actually work*
+
+![Profile Views](https://komarev.com/ghpvc/?username=dairan&color=blueviolet)
