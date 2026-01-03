@@ -14,12 +14,14 @@ iOS Developer @ PicPay | Swift Enthusiast | AI-Powered Workflows
 **Mobile:** Swift • UIKit • SwiftUI  
 **Backend:** Python • FastAPI  
 **AI/ML:** Claude • Ollama • RAG Systems  
-**Infra:** Docker • Cloudflare • Render
+**Infra:** Docker • Cloudflare • Render • Neon
 
 ## 📝 Latest
 
-Check out my technical blog at **[dairan.dev](https://dairan.dev)**
+**[dairan.dev](https://dairan.dev)** - Technical microblog on AI-powered development  
+**[dairan.com](https://dairan.com)** - Automated AI news aggregator
 
 ---
 
-*Building human + AI workflows that actually work*
+*Human + AI is stronger than either alone*
+
