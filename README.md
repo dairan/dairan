@@ -23,5 +23,3 @@ Check out my technical blog at **[dairan.dev](https://dairan.dev)**
 ---
 
 *Building human + AI workflows that actually work*
-
-![Profile Views](https://komarev.com/ghpvc/?username=dairan&color=blueviolet)
